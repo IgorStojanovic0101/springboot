@@ -1,0 +1,12 @@
+com\sajam\springboot\DAO\KorisniciDAO.class
+com\sajam\springboot\Contlotor\Korisnici_controlor.class
+com\sajam\springboot\entiteti\Korisnici.class
+com\sajam\springboot\rep\Sajam_repository.class
+com\sajam\springboot\entiteti\Auto.class
+com\sajam\springboot\rep\IKorisnici_repository.class
+com\sajam\springboot\repositorys\Korisnici_repository.class
+com\sajam\springboot\App.class
+com\sajam\springboot\rep\getAutomobili.class
+com\sajam\springboot\entiteti\Sajam_automobila.class
+com\sajam\springboot\Contlotor\Sajam_controler.class
+com\sajam\springboot\rep\IKorisnici_findUserAndPass.class
